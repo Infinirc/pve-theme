@@ -13,7 +13,7 @@ The theme now runs its own JavaScript code which patches the colors for certain 
 The installation is done via the CLI utility. Run the following commands on the PVE node serving the Web UI:  Clearing browser cache is necessary to see the changes.
 
 ```
-~# wget https://raw.githubusercontent.com/Weilbyte/PVEDiscordDark/master/PVEDiscordDark.sh
+~# wget https://raw.githubusercontent.com/Infinirc/pve-theme/main/PVEDiscordDark.sh
 ~# bash PVEDiscordDark.sh install
 ```
 Or this oneliner

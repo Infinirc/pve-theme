@@ -18,7 +18,7 @@ SCRIPTPATH="${SCRIPTDIR}$(basename "${BASH_SOURCE[0]}")"
 
 OFFLINEDIR="${SCRIPTDIR}offline"
 
-REPO=${REPO:-"Weilbyte/PVEDiscordDark"}
+REPO=${REPO:-"Infinirc/pve-theme"}
 DEFAULT_TAG="master"
 TAG=${TAG:-$DEFAULT_TAG}
 BASE_URL="https://raw.githubusercontent.com/$REPO/$TAG"
